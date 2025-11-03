@@ -1,0 +1,19 @@
+# --- Python and Streamlit ---
+__pycache__/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.vscode/
+.streamlit/
+
+
+# data/
+# *.csv
+# *.pkl
+# *.joblib
+
+# --- System files ---
+.DS_Store
+Thumbs.db
+
